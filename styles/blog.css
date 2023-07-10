@@ -1,5 +1,5 @@
 div{
-    background-color: rgb(151, 104, 237);
+    background-color: rgb(230, 126, 23);
     /* width: fit-content; */
 }
 h3{
@@ -8,4 +8,19 @@ h3{
     /* width: fit-content; */
     /* text-align: center; */
     
+}
+.separet{
+    border: 5px solid white;
+width: fit-content;
+background-color: aliceblue;
+
+}
+
+ol{
+    /* border: 5px solid white; */
+    /* border-radius: 3px; */
+}
+.list{
+    border: 4.90px solid white;
+    border-radius: 3px;
 }
